@@ -1,0 +1,14 @@
+Z:\Projetos\DesafioDeProjeto\bin\Debug\net8.0\DesafioDeProjeto.exe
+Z:\Projetos\DesafioDeProjeto\bin\Debug\net8.0\DesafioDeProjeto.deps.json
+Z:\Projetos\DesafioDeProjeto\bin\Debug\net8.0\DesafioDeProjeto.runtimeconfig.json
+Z:\Projetos\DesafioDeProjeto\bin\Debug\net8.0\DesafioDeProjeto.dll
+Z:\Projetos\DesafioDeProjeto\bin\Debug\net8.0\DesafioDeProjeto.pdb
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.AssemblyInfoInputs.cache
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.AssemblyInfo.cs
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.csproj.CoreCompileInputs.cache
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.dll
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\refint\DesafioDeProjeto.dll
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.pdb
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\DesafioDeProjeto.genruntimeconfig.cache
+Z:\Projetos\DesafioDeProjeto\obj\Debug\net8.0\ref\DesafioDeProjeto.dll
